@@ -1,0 +1,5 @@
+{
+  "name": "VocabMaster",
+  "description": "A modern English-to-Bengali vocabulary builder with AI-powered meanings, word forms, synonyms, antonyms, and spreadsheet export.",
+  "requestFramePermissions": []
+}
