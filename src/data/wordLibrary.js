@@ -247,8 +247,8 @@ bandon | abandoned | abandonedly | leave, desert, forsake | keep, retain, mainta
 | addressee | প্রাপক | noun | addressee | -- | -- | -- | recipient | sender | The addressee received the parcel. |
 | addresses | ঠিকানা | noun | address | address | addressed | -- | locations | -- | He wrote down several addresses. |
 | adduce | উদ্বুদ্ধ করা (actually উপস্থাপন করা অর্থে) | verb | adduction | adduce | adduced | -- | cite, present | withhold | He adduced evidence in court. |
-| adept | সুদক্ষ ব্যক্তি | adj/noun | adeptness | -- | adept | adeptly | skilled, expert | unskilled, novice | She is adept at solving problems. 
-
+| adept | সুদক্ষ ব্যক্তি | adj/noun | adeptness | -- | adept | adeptly | skilled, expert | unskilled, novice | She is adept at solving problems. |
+| additive | সংযোজক, অতিরিক্ত উপাদান | noun/adjective | addition, additive | add | additive | additively | supplement, adjunct, extra | subtractive, reductive, diminishing | Food manufacturers often use an additive to preserve freshness. |
 | adequacy | প্রাচুর্য | noun | adequacy | -- | adequate | adequately | sufficiency, enough | insufficiency, lack | The adequacy of resources was questioned. |
 | adequate | যথেষ্ট | adj | adequacy | -- | adequate | adequately | sufficient, enough | inadequate, insufficient | The food supply is adequate for now. |
 | adhere | অনুগত থাকা | verb | adherence | adhere | adherent | -- | stick, follow | detach, oppose | He adheres to the rules strictly. |
