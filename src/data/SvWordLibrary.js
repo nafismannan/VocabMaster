@@ -1,4 +1,25 @@
 export const SV_DICTIONARY_TEXT = `
+| voracious | অতিভোজনকারী, লোভী | adjective | voracity | -- | voracious | voraciously | greedy, insatiable | moderate, satisfied | He has a voracious appetite. |
+| indiscriminate | নির্বিচার, বাছবিচারহীন | adjective | indiscrimination | -- | indiscriminate | indiscriminately | random, unselective | selective, discriminating | The attack was indiscriminate. |
+| eminent | বিশিষ্ট, খ্যাতিমান | adjective | eminence | -- | eminent | eminently | distinguished, notable | obscure, unknown | He is an eminent scientist. |
+| steeped | নিমজ্জিত, পূর্ণভাবে ভরা | adjective/verb | steeping | steep | steeped | steepedly | soaked, saturated | dry, devoid | The culture is steeped in tradition. |
+| replete | পরিপূর্ণ, পূর্ণ | adjective | repletion | -- | replete | repletely | full, abundant | empty, lacking | The table was replete with food. |
+| abound | প্রচুর পরিমাণে থাকা | verb | abundance | abound | abundant | abundantly | overflow, teem | lack, be scarce | Fish abound in this river. |
+| technology | প্রযুক্তি | noun | technology | -- | technological | technologically | tech, engineering | -- | Technology has changed our lives. |
+| prognosticate | পূর্বাভাস দেওয়া | verb | prognostication | prognosticate | prognostic | prognostically | predict, forecast | guess, ignore | Experts prognosticate economic growth. |
+| automaton | যন্ত্রমানব, স্বয়ংক্রিয় যন্ত্র | noun | automaton | -- | automatic | automatically | robot, machine | human | The worker moved like an automaton. |
+| matron | গৃহিণী, বয়স্কা মহিলা | noun | matron | -- | matronly | matronly | lady, housewife | maid, girl | The matron took care of the children. |
+| paradox | আপাতবিরোধী উক্তি, কুটাভাস | noun | paradox | -- | paradoxical | paradoxically | contradiction, irony | consistency, logic | It is a paradox that less is more. |
+| realm | ক্ষেত্র, রাজ্য | noun | realm | -- | real | really | domain, kingdom | -- | This theory belongs to the realm of science. |
+| annals | ইতিহাস, বার্ষিক বিবরণ, ঐতিহাসিক রেকর্ড | noun | annal | -- | annal | annually | records, chronicles | -- | His name is recorded in the annals of history. |
+| compound | যৌগ, মিশ্রণ, বৃদ্ধি করা | noun/verb/adj | compound | compound | compound | compoundly | combine, mixture | separate, divide | The problem was compounded by lack of time. |
+| tinge | আভা, আভাস | noun/verb | tinge | tinge | tinged | -- | hint, shade | absence, lack | Her voice had a tinge of sadness. |
+| badger | বিরক্ত করা, জ্বালাতন করা | noun/verb | badger | badger | -- | -- | harass, pester | soothe, comfort | Stop badgering me with questions. |
+| implore | আকুলভাবে অনুরোধ করা | verb | imploration | implore | imploring | imploringly | beg, plead | demand, command | She implored him to stay. |
+| drudgery | কঠোর পরিশ্রম, একঘেয়ে কাজ | noun | drudgery | -- | drudgerous | -- | toil, grind | pleasure, ease | Housework became a daily drudgery. |
+| interminable | অন্তহীন, শেষহীন | adjective | interminability | -- | interminable | interminably | endless, unending | brief, short | The meeting seemed interminable. |
+| perceive | উপলব্ধি করা, বুঝতে পারা | verb | perception | perceive | perceptive | perceptively | notice, observe | ignore, overlook | I perceived a change in his tone. |
+
 | alacrity | আগ্রহ, তৎপরতা | noun | alacrity | -- | alacritous | alacritously | eagerness, readiness, promptness | reluctance, hesitation | She accepted the offer with alacrity. |
 | aspirant | আকাঙ্ক্ষী, প্রার্থী | noun | aspirant | aspire | aspiring | aspiringly | candidate, applicant, hopeful | noncandidate, reject | He is an aspirant for the scholarship. |
 | belligerent | যুদ্ধপ্রবণ, আক্রমণাত্মক | adj/noun | belligerence | -- | belligerent | belligerently | aggressive, hostile, combative | peaceful, calm | His belligerent attitude caused problems. |
@@ -102,27 +123,6 @@ export const SV_DICTIONARY_TEXT = `
 | rudimentary | প্রাথমিক, মৌলিক | adjective | rudiment | -- | rudimentary | rudimentarily | basic, elementary | advanced, complex | He has only rudimentary knowledge. |
 | throng | ভিড় করা, জনসমাগম | noun/verb | throng | throng | thronged | -- | crowd, swarm | disperse, scatter | People thronged the market. |
 | vigilant | সতর্ক, সজাগ | adjective | vigilance | -- | vigilant | vigilantly | watchful, alert | careless, negligent | The guards remained vigilant. |
-
-| abound | প্রচুর পরিমাণে থাকা | verb | abundance | abound | abundant | abundantly | overflow, teem | lack, be scarce | Fish abound in this river. |
-| annals | ইতিহাস, বার্ষিক বিবরণ | noun | annal | -- | annal | annually | records, chronicles | -- | His name is recorded in the annals of history. |
-| automaton | যন্ত্রমানব, স্বয়ংক্রিয় যন্ত্র | noun | automaton | -- | automatic | automatically | robot, machine | human | The worker moved like an automaton. |
-| badger | বিরক্ত করা, জ্বালাতন করা | noun/verb | badger | badger | -- | -- | harass, pester | soothe, comfort | Stop badgering me with questions. |
-| compound | যৌগ, মিশ্রণ, বৃদ্ধি করা | noun/verb/adj | compound | compound | compound | compoundly | combine, mixture | separate, divide | The problem was compounded by lack of time. |
-| drudgery | কঠোর পরিশ্রম, একঘেয়ে কাজ | noun | drudgery | -- | drudgerous | -- | toil, grind | pleasure, ease | Housework became a daily drudgery. |
-| eminent | বিশিষ্ট, খ্যাতিমান | adjective | eminence | -- | eminent | eminently | distinguished, notable | obscure, unknown | He is an eminent scientist. |
-| implore | আকুলভাবে অনুরোধ করা | verb | imploration | implore | imploring | imploringly | beg, plead | demand, command | She implored him to stay. |
-| indiscriminate | নির্বিচার, বাছবিচারহীন | adjective | indiscrimination | -- | indiscriminate | indiscriminately | random, unselective | selective, discriminating | The attack was indiscriminate. |
-| interminable | অন্তহীন, শেষহীন | adjective | interminability | -- | interminable | interminably | endless, unending | brief, short | The meeting seemed interminable. |
-| matron | গৃহিণী, বয়স্কা মহিলা | noun | matron | -- | matronly | matronly | lady, housewife | maid, girl | The matron took care of the children. |
-| paradox | আপাতবিরোধী উক্তি | noun | paradox | -- | paradoxical | paradoxically | contradiction, irony | consistency, logic | It is a paradox that less is more. |
-| perceive | উপলব্ধি করা, বুঝতে পারা | verb | perception | perceive | perceptive | perceptively | notice, observe | ignore, overlook | I perceived a change in his tone. |
-| prognosticate | পূর্বাভাস দেওয়া | verb | prognostication | prognosticate | prognostic | prognostically | predict, forecast | guess, ignore | Experts prognosticate economic growth. |
-| realm | ক্ষেত্র, রাজ্য | noun | realm | -- | real | really | domain, kingdom | -- | This theory belongs to the realm of science. |
-| replete | পরিপূর্ণ, পূর্ণ | adjective | repletion | -- | replete | repletely | full, abundant | empty, lacking | The table was replete with food. |
-| steeped | নিমজ্জিত, পূর্ণভাবে ভরা | adjective/verb | steeping | steep | steeped | steepedly | soaked, saturated | dry, devoid | The culture is steeped in tradition. |
-| technology | প্রযুক্তি | noun | technology | -- | technological | technologically | tech, engineering | -- | Technology has changed our lives. |
-| tinge | আভা, আভাস | noun/verb | tinge | tinge | tinged | -- | hint, shade | absence, lack | Her voice had a tinge of sadness. |
-| voracious | অতিভোজনকারী, লোভী | adjective | voracity | -- | voracious | voraciously | greedy, insatiable | moderate, satisfied | He has a voracious appetite. |
 
 | effigy | প্রতিমূর্তি, প্রতিকৃতি | noun | effigy | -- | -- | -- | image, statue | -- | The crowd burned an effigy of the leader. |
 | exacerbate | আরও খারাপ করা | verb | exacerbation | exacerbate | exacerbating | -- | worsen, aggravate | improve, alleviate | His actions exacerbated the problem. |
